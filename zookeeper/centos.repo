@@ -1,0 +1,5 @@
+[centosrepo]
+name=Cent OS Repository
+baseurl=http://ftp.heanet.ie/pub/centos/7.3.1611/os/x86_64/
+enabled=1
+gpgcheck=0
